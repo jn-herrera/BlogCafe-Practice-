@@ -1,7 +1,7 @@
 # BlogCafe Practice
 
 
-https://kaiggue.github.io/BlogCafe/
+https://kaiggue.github.io/BlogCafe-Practice-/
 
 Static design
 
